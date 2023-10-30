@@ -12,6 +12,10 @@ p{
     text-align: center;
 }
 
+#missão {
+ fonte-size: 20px;
+}
+
 em strong {
     color: blueviolet;
 }
