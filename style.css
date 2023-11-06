@@ -2,10 +2,14 @@ body{
     background: #cccccc;
 }
 
+#banner{
+    width: 100%;
+}
+
 h1 {
     text-align: center;
-    color: rgb(127, 31, 217);
-    background: rgb(184, 150, 219):
+    color: rgb(0, 0, 0);
+    background: rgb(172, 83, 0):
 }
 
 p{
@@ -13,9 +17,12 @@ p{
 }
 
 #missão {
- fonte-size: 20px;
+ font-size: 20px;
 }
 
 em strong {
-    color: blueviolet;
+    color: rgb(168, 116, 4)56, 43);
+}
+.itens {
+ font-style: italic;
 }
